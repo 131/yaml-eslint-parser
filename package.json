@@ -1,5 +1,5 @@
 {
-  "name": "yaml-eslint-parser",
+  "name": "@131/yaml-eslint-parser",
   "version": "1.2.3",
   "description": "A YAML parser that produces output compatible with ESLint",
   "main": "lib/index.js",
